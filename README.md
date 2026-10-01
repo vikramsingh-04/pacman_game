@@ -14,13 +14,3 @@ An interactive 2D Pacman game built from scratch using **Java AWT** and **Swing*
 
 ---
 
-## 🛠️ How to Run Locally
-
-### Prerequisites
-- Java Development Kit (**JDK 8** or higher installed).
-- Any Java IDE (VS Code, IntelliJ IDEA, Eclipse) or Command Line.
-
-### Execution Steps
-1. Clone this repository to your local computer:
-   ```bash
-   git clone [https://github.com/vikramsingh-04/pacman_game.git](https://github.com/vikramsingh-04/pacman_game.git)
